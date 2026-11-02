@@ -4,8 +4,6 @@
 
 [English](#english) · [Deutsch](#deutsch)
 
-![Hero image: conventional vs. AM manifold render](media/hero.jpg)
-
 ---
 
 ## English
@@ -20,11 +18,6 @@ Redesigned a hydraulic manifold for metal 3D printing (LPBF). Conventional manif
 - Redesigned the internal channels for LPBF: smooth bends, self-supporting channel shapes, minimal supports
 - Removed unnecessary material around the channels
 - Checked the design for printability (overhangs, powder removal, wall thickness)
-
-### Before / after
-| Conventional | LPBF design |
-|---|---|
-| ![](media/before.jpg) | ![](media/after.jpg) |
 
 ### Skills shown
 `DfAM` `LPBF` `CAD` `lightweight design` `fluid channel design` `design for manufacturability`
